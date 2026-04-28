@@ -21,6 +21,7 @@ import java.util.stream.Collectors;
 @Service
 public class DataSeedService {
 
+
     @Autowired
     private StudentRepository studentRepository;
     @Autowired
